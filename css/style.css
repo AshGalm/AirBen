@@ -1,0 +1,54 @@
+.nav-color {
+  color: #bce9a7;
+  font-size: 20px;
+  font-family: 'Alexandria', sans-serif;
+}
+
+.air-font {
+  font-family: 'Alexandria', sans-serif;
+}
+
+.air-size {
+  font-weight: bold;
+  color: #458C23 ;
+}
+
+.imgS {
+  max-width: 300px;
+}
+
+.in {
+  font-size: 30px;
+  font-family: 'Alexandria', sans-serif;
+
+}
+
+.air-color {
+  font-family: 'Alexandria', sans-serif;
+  color: #bce9a7;
+
+}
+
+.con {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
